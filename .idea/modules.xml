@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mydoggy.iml" filepath="$PROJECT_DIR$/mydoggy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydoggy-api/mydoggy-api.iml" filepath="$PROJECT_DIR$/mydoggy-api/mydoggy-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydoggy-examples/mydoggy-examples.iml" filepath="$PROJECT_DIR$/mydoggy-examples/mydoggy-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydoggy-plaf/mydoggy-plaf.iml" filepath="$PROJECT_DIR$/mydoggy-plaf/mydoggy-plaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydoggy-res/mydoggy-res.iml" filepath="$PROJECT_DIR$/mydoggy-res/mydoggy-res.iml" />
+    </modules>
+  </component>
+</project>
+
