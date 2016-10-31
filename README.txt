@@ -1,3 +1,5 @@
+This is a modified version of the below library. The modifications are added to fix some User Interface Bugs identified.
+
 MyDoggy - My Java Docking Framework 1.5.0 (http://mydoggy.sourceforge.net/)
 
 CONTENTS
